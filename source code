@@ -4,7 +4,6 @@
 ^https:\/\/interface3\.music\.163\.com\/eapi\/homepage\/top\/message url reject-dict
 ^https:\/\/interface3\.music\.163\.com\/eapi\/homepage\/block\/page url reject-dict
 ^http:\/\/interface3\.music\.163\.com\/eapi\/vipauth\/app\/auth\/query url reject-dict
-oditszapc:
 ^https:\/\/interface3\.music\.163\.com\/eapi\/sub\/artist\/new\/works\/entrance url reject-dict
 ^https:\/\/interface\.music\.163\.com\/eapi\/event\/square url reject-dict
 ^https:\/\/interface\.music\.163\.com\/eapi\/song\/private_domain url reject-dict
